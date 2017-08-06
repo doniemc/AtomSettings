@@ -1,0 +1,8 @@
+#!../bin/bash
+sudo apm install autocomplete-en-en
+sudo apm install typewriter
+sudo apm install wordcount
+sudo apm install zen
+sudo apm install pandoc
+sudo apm install pdf-view
+sudo apm install atom-clock
